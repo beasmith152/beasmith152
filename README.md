@@ -13,6 +13,7 @@
 
 ## Experience
 - Lead Designer & Developer @ Treasure Valley Graphics
+- Project Manager @ Designer Decal
 
 <!--
 **beasmith152/beasmith152** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
