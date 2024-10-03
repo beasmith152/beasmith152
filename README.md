@@ -1,7 +1,18 @@
-# Bea Smith
+# Bea Smith 
+## _Pronounced_ "Bee"
+## Full Time Student. Part Time Race Car Driver. 
+# About me
 
-## Full Time Student; Part Time Race Car Driver. 
-### HTML, CSS, JS, Python, Java
+## Skills
+- HTML 5
+- CSS
+- JS
+- Python
+- Java
+- Certified in Adobe Suite
+
+## Experience
+- Lead Designer & Developer @ Treasure Valley Graphics
 
 <!--
 **beasmith152/beasmith152** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
