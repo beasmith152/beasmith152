@@ -1,5 +1,7 @@
-## Hi there 👋
 # Bea Smith
+
+## Full Time Student; Part Time Race Car Driver. 
+## HTML,CSS, JS, Python, Java
 
 <!--
 **beasmith152/beasmith152** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
