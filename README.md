@@ -37,6 +37,18 @@
 
 </div>
 
+## 
+
+
+<div align="center">
+
+[![header](https://assets-sports-gcp.thescore.com/basketball/team/1564/small_logo.png)](https://bsideportfolio.com)
+
+##  📖 EWU Projects 🖊
+### Most of the repositories you find in my Profile are projects for school or are for fun. Good work is in progress!
+<p>My GitHub primarily reflects my experimentation with new technologies, hobby projects, and learning endeavors. Please view it as a glimpse into my exploration 🧪 rather than a testament to my professional abilities 🦸.</p>
+</div>
+
 
 <!--
 **beasmith152/beasmith152** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
