@@ -7,7 +7,7 @@
 </div>
 
 
-# <p align="center">🔩 <span style="color:red">_Smith_ </span>🖌</p>
+# <p align="center">🔩 <text style="color:red">_Smith_ </text>🖌</p>
 
 <div align="center">
 
