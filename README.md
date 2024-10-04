@@ -7,15 +7,18 @@
 </div>
 
 
-# <p align="center">Hello World! I'm Bea 👋</p>
+# <p align="center">🔩 _Smith_ 🖌</p>
+
+<div align="center">
 
 ### _Pronounced_ "Bee"
-### *Full Time Student*. -Part Time Race Car Driver. 
+### *Full Time Student*. -Part Time Race Car Driver.
+
 ##  About me: 
 
 
 
-| Skills| Description |
+| Language/Programs| Practiced |
 | ----------- | ----------- |
 | HTML | 10 years |
 | CSS | 10 years |
@@ -24,13 +27,15 @@
 | Adobe Suite | 10 years & Inustry Certification |
 
 ### OS:
-- Windows, IOS, Linux
+ Windows, IOS, Linux
 
 
 ## Experience:
-- Lead Designer & Developer @ _Treasure Valley Graphics_:  2019 - 2021
-- Lead Designer @ _Solar Eclipse Wraps_: 2021 - 2022 
-- Project Manager @ Designer Decal: 2023 - 2024 
+Lead Designer & Developer @ _Treasure Valley Graphics_:  2019 - 2021
+Lead Designer @ _Solar Eclipse Wraps_: 2021 - 2022 
+Project Manager @ Designer Decal: 2023 - 2024 
+
+</div>
 
 
 <!--
