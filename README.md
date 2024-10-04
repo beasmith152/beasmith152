@@ -31,9 +31,9 @@
 
 
 ## Experience:
-Lead Designer & Developer @ _Treasure Valley Graphics_:  2019 - 2021
-Lead Designer @ _Solar Eclipse Wraps_: 2021 - 2022 
-Project Manager @ Designer Decal: 2023 - 2024 
+- Lead Designer & Developer @ _Treasure Valley Graphics_:  2019 - 2021
+- Lead Designer @ _Solar Eclipse Wraps_: 2021 - 2022 
+- Project Manager @ Designer Decal: 2023 - 2024 
 
 </div>
 
