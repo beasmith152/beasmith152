@@ -7,11 +7,11 @@
 </div>
 
 
-# <p align="center">🔩 <text style="color:red">_Smith_ </text>🖌</p>
+# <p align="center">🔩 _Smith_ 🖌</p>
 
 <div align="center">
 
-### _Pronounced_ <span style="color:lime">"Bee"</span>
+### _Pronounced_ "Bee"
 ### *Full Time Student*. -Part Time Race Car Driver.
 
 ##  About me: 
@@ -44,7 +44,7 @@
 
 [![header](https://assets-sports-gcp.thescore.com/basketball/team/1564/small_logo.png)](https://inside.ewu.edu/)
 
-##  📖 EWU <span style="color:orange">Projects</span> 🖊
+##  📖 EWU Projects 🖊
 ### Most of the repositories you find in my Profile are projects for school or are for fun. Good work is in progress!
 
 <p>My GitHub primarily reflects my experimentation with new technologies, hobby projects, and learning endeavors. Please view it as a glimpse into my exploration 🧪 rather than a testament to my professional abilities 🦸.</p>
