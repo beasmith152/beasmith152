@@ -1,11 +1,16 @@
-# Bea Smith 
+
+
+[![header](https://upload.wikimedia.org/wikipedia/commons/6/6a/BEA_text_logo_%281972%29.svg)](https://bsideportfolio.com)
+
+# Hello World! I'm Bea 👋
+
 ### _Pronounced_ "Bee"
 ### *Full Time Student*. -Part Time Race Car Driver. 
-## About me:
+##  About me: 
 
 
 
-| Skills | Description |
+| Skills| Description |
 | ----------- | ----------- |
 | HTML | 10 years |
 | CSS | 10 years |
@@ -13,6 +18,8 @@
 | Python | 1 year |
 | Adobe Suite | 10 years & Inustry Certification |
 
+### OS:
+- Windows, IOS, Linux
 
 
 ## Experience:
