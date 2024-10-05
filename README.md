@@ -6,10 +6,10 @@
 
 </div>
 
-
-# <p align="center">$${\color{red}🔩Smith🔩}$$</p>
-
 <div align="center">
+
+# $${\color{red}🔩Smith🔩}$$
+
 
 ### _Pronounced_ "Bee"
 ### *Full Time Student*. -Part Time Race Car Driver.
