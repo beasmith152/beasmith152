@@ -23,6 +23,7 @@
 | HTML | 10 years |
 | CSS | 10 years |
 | JS | 1 year |
+| Astro | <1 year |
 | Python | 1 year |
 | Adobe Suite | 10 years & Inustry Certification |
 
