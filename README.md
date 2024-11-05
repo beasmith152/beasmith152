@@ -49,6 +49,7 @@
 ### Most of the repositories you find in my Profile are projects for school or are for fun. Good work is in progress!
 
 <p>My GitHub primarily reflects my experimentation with new technologies, hobby projects, and learning endeavors. Please view it as a glimpse into my exploration 🧪 rather than a testament to my professional abilities 🦸.</p>
+
 - Portfolio (https://landing-page-henna-pi.vercel.app/)
 - F1 Web App (https://f1-project-teal.vercel.app/)
 - Spokane Graffiti Project (https://jolly-otter-870659.netlify.app/)
