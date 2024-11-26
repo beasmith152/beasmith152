@@ -24,6 +24,9 @@
 | CSS | 10 years |
 | JS | 1 year |
 | Astro | <1 year |
+| TailwindCSS | <1 year |
+| DaisyUI | <1 year |
+| React | <1 year |
 | Python | 1 year |
 | Adobe Suite | 10 years & Inustry Certification |
 
