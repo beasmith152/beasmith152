@@ -56,6 +56,8 @@
 - Portfolio (https://landing-page-henna-pi.vercel.app/)
 - F1 Web App (https://f1-project-teal.vercel.app/)
 - Spokane Graffiti Project (https://jolly-otter-870659.netlify.app/)
+- Met Gala API (https://met-gala.vercel.app/)
+- Tailwind Clock (https://date-time-seven.vercel.app/)
 
 </div>
 
