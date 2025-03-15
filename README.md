@@ -28,6 +28,8 @@
 | DaisyUI | <1 year |
 | React | <1 year |
 | Python | 1 year |
+| G++ | <1 year |
+| C++ | <1 year |
 | Adobe Suite | 10 years & Inustry Certification |
 
 ### OS:
@@ -35,6 +37,8 @@
 
 
 ## Experience:
+
+- Independent Study of AI Research & Development @ Eastern Washington University: Winter 2025
 - Lead Designer & Developer @ _Treasure Valley Graphics_:  2019 - 2021
 - Lead Designer @ _Solar Eclipse Wraps_: 2021 - 2022 
 - Project Manager @ Designer Decal: 2023 - 2024 
@@ -58,6 +62,7 @@
 - Spokane Graffiti Project (https://jolly-otter-870659.netlify.app/)
 - Met Gala API (https://met-gala.vercel.app/)
 - Tailwind Clock (https://date-time-seven.vercel.app/)
+- Neuralangelo Patched Version (https://github.com/beasmith152/Easy-Install-Neuralangelo-includes-updated-dependency-list-/tree/main)
 
 </div>
 
