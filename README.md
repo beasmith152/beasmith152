@@ -22,18 +22,21 @@
 | ----------- | ----------- |
 | HTML | 10 years |
 | CSS | 10 years |
-| JS | 1 year |
-| Astro | <1 year |
-| TailwindCSS | <1 year |
-| DaisyUI | <1 year |
-| React | <1 year |
-| Python | 1 year |
-| G++ | <1 year |
-| C++ | <1 year |
+| JS | 3 years |
+| Astro | 2 years |
+| TailwindCSS | 2 years |
+| DaisyUI | 1 year |
+| React | 2 years |
+| Python | 2 years |
+| G++ | 1 year |
+| C++ | 1 year |
+| Expo React | 1 year |
+| Unity | <1 year |
+| Typescript | 1 year |
 | Adobe Suite | 10 years & Inustry Certification |
 
 ### OS:
- Windows, IOS, Linux
+ Windows, IOS, Linux, Android
 
 
 ## Experience:
