@@ -22,7 +22,7 @@
 | ----------- | ----------- |
 | HTML | 10 years |
 | CSS | 10 years |
-| JS | 3 years |
+| JavaScript | 3 years |
 | Astro | 2 years |
 | TailwindCSS | 2 years |
 | DaisyUI | 1 year |
