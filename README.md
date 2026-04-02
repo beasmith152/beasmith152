@@ -8,8 +8,7 @@
 <div align="center">
 
 # ${\color{pink}  ベ \space すみす }$
-
-## $${\color{pink} Bea \space Smith}$$ 
+### $${\color{pink} Pronounced: \space Bea \space Smith}$$ 
 
 ##  ${\color{pink} About \space Me }$
 
