@@ -7,7 +7,7 @@
 
 <div align="center">
 
-## $${\color{pink} ベ すみす }$$
+# $${\color{pink} ベ \space すみす }$$
 
 ## $${\color{pink} Bea \space Smith}$$ 
 
