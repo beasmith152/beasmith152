@@ -7,7 +7,7 @@
 
 <div align="center">
 
-# <font size="9" color="pink">ベ すみす</font>
+## $${\color{pink} ベ すみす }$$
 
 ## $${\color{pink} Bea \space Smith}$$ 
 
@@ -40,7 +40,7 @@
  Windows, IOS, Linux, Android
 
 
-## Experience:
+## $${\color{pink} Experience: }$$ 
 
 - Independent Study of AI Research & Development @ Eastern Washington University: Winter 2025
 - Lead Designer & Developer @ _Treasure Valley Graphics_:  2019 - 2021
