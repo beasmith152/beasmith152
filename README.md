@@ -9,6 +9,8 @@
 
 # ${\color{pink}  ベ \space すみす }$
 
+<h1 align="center"> $${\color{pink}ベ} {} {\color{pink}すみす}$$  </h1>
+
 ## $${\color{pink} Bea \space Smith}$$ 
 
 ##  ${\color{pink} About \space Me }$
