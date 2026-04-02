@@ -1,15 +1,13 @@
 
 <div align="left">
 
-<img src="https://pngimg.com/uploads/sakura/sakura_PNG34.png" width="75%">
+<img src="https://www.nicepng.com/png/full/88-880834_cherry-blossom-large-real-wood-wooden-jewelry-box.png" width="100%">
 
 </div>
 
 <div align="center">
 
 # ${\color{pink}  ベ \space すみす }$
-
-<h1 align="center"> $${\color{pink}ベ} {} {\color{pink}すみす}$$  </h1>
 
 ## $${\color{pink} Bea \space Smith}$$ 
 
