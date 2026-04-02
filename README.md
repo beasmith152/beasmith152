@@ -6,9 +6,9 @@
 </div>
 <div align="center">
 
-# $${\color{pink}ベ すみす}$$
+<font size="9" color="pink">ベ すみす</font>
 
-### $${\color{pink}Bea Smith}$$
+## $${\color{pink} Bea \space Smith}$$ 
 
 
 ### _Pronounced_ "Bee"
