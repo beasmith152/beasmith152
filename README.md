@@ -3,7 +3,7 @@
 
 <img src="https://www.nicepng.com/png/full/88-880834_cherry-blossom-large-real-wood-wooden-jewelry-box.png" width="100%"> 
 
-# {\color{pink}  ベ \space すみす }
+# $${\color{pink}  ベ \space すみす }$$
 
 </div>
 
