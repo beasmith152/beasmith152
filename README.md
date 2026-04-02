@@ -1,9 +1,10 @@
 
 <div align="left">
 
-[![header](https://pngimg.com/uploads/sakura/sakura_PNG34.png)](https://rwzdesigns.com/)
+<img src="https://pngimg.com/uploads/sakura/sakura_PNG34.png" width="75%">
 
 </div>
+
 <div align="center">
 
 # <font size="9" color="pink">ベ すみす</font>
