@@ -11,11 +11,7 @@
 
 ## $${\color{pink} Bea \space Smith}$$ 
 
-
-### _Pronounced_ "Bee"
-### *Full Time Student*. -Part Time Race Car Driver.
-
-##  About me: 
+##  $${\color{pink} About \space Me }$$ 
 
 
 
