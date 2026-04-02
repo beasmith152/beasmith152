@@ -6,7 +6,7 @@
 </div>
 <div align="center">
 
-<font size="9" color="pink">ベ すみす</font>
+# <font size="9" color="pink">ベ すみす</font>
 
 ## $${\color{pink} Bea \space Smith}$$ 
 
