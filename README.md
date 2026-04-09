@@ -3,15 +3,19 @@
 
 <img src="https://www.nicepng.com/png/full/88-880834_cherry-blossom-large-real-wood-wooden-jewelry-box.png" width="100%"> 
 
+</div>
+
+<div align="center">
+
 # $${\color{pink}  ベ \space すみす }$$
 
 </div>
 
 <div align="center">
 
-### $${\color{pink} Pronounced: \space Bea \space Smith}$$ 
+### $${\color{white} Pronounced: \space Bea \space Smith}$$ 
 
-##  ${\color{pink} About \space Me }$
+###  ${\color{pink} About \space Me }$
 
 
 
